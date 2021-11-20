@@ -1,4 +1,4 @@
-Detailing about the data provided (Scatter plot Application):
+Detailing about the data provided (Data Visualization Application):
 •	In the application, the data provided in the CSV is used for the Scatter plot creation.
 •	The data can be changed though as needed and the scatter plot will then be extended further.
 •	About the Scatter plot:
